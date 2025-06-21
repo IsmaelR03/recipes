@@ -13,7 +13,7 @@
 * Figtree: Generado el árbol en IQ-Tree este permite visualizarlo y personalizarlo con colores, etiquetas, nodos, etc. Util para análisis y presentación de resultados.
 ## Foto de grupo de organismos
 * *Ranitomeya ventrimaculata*
-![alt text](https://multimedia20stg.blob.core.windows.net/especies/135220110602_30355.jpg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/8/8d/Ranitomeya_ventrimaculata01a.jpg)
 * *Hyloxalus nexipus*
 ![alt text](https://multimedia20stg.blob.core.windows.net/especies/RanasSurOrienteEne2004%20012.jpg)
 * *Epipedobates anthonyi*
